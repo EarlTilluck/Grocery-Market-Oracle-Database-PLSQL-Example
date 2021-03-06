@@ -1,6 +1,4 @@
 -- Earl Tilluck
--- Andrew Lawrence (old group)
--- Larry Williams (old group)
 -- This SQL script creates the JTA database with all tables, constraints and sample data.
 
 -- Begin

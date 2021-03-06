@@ -1,6 +1,4 @@
 -- Earl Tilluck
--- Franze Khan
--- Ann Rose Regis
 -- These anonymous blocks can be used to run and test each procedure/function in the jta package.
 -- Note: These are *quick and dirty* blocks of code for testing only, 
 

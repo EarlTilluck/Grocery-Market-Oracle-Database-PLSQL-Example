@@ -1,6 +1,4 @@
 -- Earl Tilluck
--- Franze Khan
--- Ann Rose Regis
 -- This is a package that contains 25 subprograms and supporting constructs for the JTA database.
 
 
@@ -671,7 +669,7 @@ CREATE OR REPLACE PACKAGE BODY jta IS
         Find the total cash amount retrieved by cashiers for a certain period
         This query is useful in determining how much cash is on hand and when to
         arrange with the bank to collect.
-        Date range can be changed to reflect days, week’s months etc.
+        Date range can be changed to reflect days, weekï¿½s months etc.
         
         The default type value of cash can be changed to non-cash to find out
         how much was gained via credit card, linx etc.
